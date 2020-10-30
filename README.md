@@ -13,6 +13,7 @@ node ./schema/init.js
 Run the lambda with SAM:
 
 ```
+cd rs-task
 sam local invoke -e event.json RsTask | jq
 ```
 

@@ -3,7 +3,7 @@
 ## Instructions:
 
 
-Run the following commands to create tabbles and insert fake data:
+Run the following commands to create tables and insert fake data:
 
 ```
 npm i

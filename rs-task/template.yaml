@@ -1,0 +1,10 @@
+AwsTemplateFormatVersion: '2010-09-09'
+Transform: Aws::Serverless-2016-10-31
+Description: |
+  Test
+Resources:
+  RsTask:
+    Type: AWS::Serverless::Function
+    Properties:
+      Runtime: nodejs12.x
+      Handler: index.handler

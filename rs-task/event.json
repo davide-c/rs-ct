@@ -1,0 +1,9 @@
+{ "headers":
+    {
+        "Accept":"application/json,text/plain, */*",
+        "Authentication":"Bearer 1188888",
+        "User-Agent":"axios/0.18.0",
+        "Host":"localhost:3000",
+        "Connection":"close"
+    }
+}
